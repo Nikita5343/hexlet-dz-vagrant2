@@ -8,3 +8,4 @@ multipass mount . vagrant-dev:/vagrant
 ## Тест
 curl localhost:8080
 
+# hexlet-dz-vagrant2
